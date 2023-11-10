@@ -1,8 +1,8 @@
 # Getenesh Guta's Portfolio
 
-![Profile Picture]([https://your-image-link.com](https://github.com/get-guta/projects/images/photo.jpeg)]
+![Profile Picture](https://github.com/get-guta/projects/images/photo.jpeg)]
 
-###Toronto, ON M4K2E3 | 437. 243. 1941 | getenesh.guta1@gmail.com###
+Toronto, ON M4K2E3 | 437. 243. 1941 | getenesh.guta1@gmail.com
 
 ## About Me
 
@@ -16,7 +16,7 @@ Lighthouse Labs － Toronto, ON
 
 **Master of Science, Information Technology**
 Nov 2018
-Jimma University － Jimma, Ethiopia
+Jimma University － Jimma, Ethiopia, with Honor
 
 **Bachelor of Science, Information Technology**
 Jun 2017
