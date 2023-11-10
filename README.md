@@ -1,6 +1,8 @@
 # Getenesh Guta's Portfolio
 
-![Profile Picture]([https://your-image-link.com](https://github.com/get-guta/projects/images/photo.jpeg)
+![Profile Picture]([https://your-image-link.com](https://github.com/get-guta/projects/images/photo.jpeg)]
+
+###Toronto, ON M4K2E3 | 437. 243. 1941 | getenesh.guta1@gmail.com###
 
 ## About Me
 
@@ -80,4 +82,6 @@ Jimma University － Jimma, Ethiopia, with Honor
 
 ## Social Media
 
-- **LinkedIn**: [linkedin.com/in/getenesh-guta](https://www
+- **LinkedIn**: [getenesh-guta](https://www.linkedin.com/in/getenesh-guta)
+- **GitHub**: [get-guta](https://github.com/get-guta)
+- **Emal**:[getenesh.guta@gmail.com](#)
